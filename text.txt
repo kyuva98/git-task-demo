@@ -1,1 +1,2 @@
 First commit from master before renaming it to main
+Line 2 from first-branch
