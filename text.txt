@@ -1,3 +1,4 @@
 First commit from master before renaming it to main
 After line 2 added from first-branch again come to main using switch and adding this line.
 Line 2 from first-branch
+Commit1
