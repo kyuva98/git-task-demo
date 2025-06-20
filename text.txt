@@ -3,3 +3,4 @@ After line 2 added from first-branch again come to main using switch and adding 
 Line 2 from first-branch
 Commit1
 Commit 2
+Commit 3
